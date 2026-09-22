@@ -9,3 +9,7 @@ Answer: Data science can be used for environmental monitoring. For example, sate
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines two branches and keeps their original histories, while rebasing moves a branch's changes onto another branch to create a cleaner, more linear history.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to getting better with tools like Pandas, SQL, statistics, and data visualization and using them in real machine learning projects.
