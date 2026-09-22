@@ -5,3 +5,7 @@ Answer: Git helps us keep track of changes, go back to older versions, test thin
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be used for environmental monitoring. For example, satellite images and machine learning can help detect wildfires and identify the areas affected by them.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines two branches and keeps their original histories, while rebasing moves a branch's changes onto another branch to create a cleaner, more linear history.
