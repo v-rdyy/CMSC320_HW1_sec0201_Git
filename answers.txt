@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be used for environmental monitoring. For example, satellite images and machine learning can help detect wildfires and identify the areas affected by them.
